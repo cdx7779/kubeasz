@@ -1,0 +1,2 @@
+这安装流程可以细化一点吗？  我不会装
+ curl -C- -fLO --retry 3 https://github.com/easzlab/kubeasz/releases/download/${release}/easzup     拉不下来报错..上次拉可以的
